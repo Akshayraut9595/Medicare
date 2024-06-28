@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+dist/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+
+# Vite cache and build artifacts
+.vite/
+
+# Node.js runtime and build artifacts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
